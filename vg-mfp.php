@@ -1,10 +1,10 @@
 <?php
 /*
    Plugin Name: VG MFP
-   Plugin URI: http://wordpress.org/extend/plugins/vg-mfp/
+   Plugin URI: https://github.com/matt-chugg/vg-mfp
    Version: 0.1
    Author: Matt Chugg
-   Description: Multi-Function Plugin by Voice Group
+   Description: Multi-Function Plugin by Matt Chugg
    Text Domain: vg-mfp
   */
 
