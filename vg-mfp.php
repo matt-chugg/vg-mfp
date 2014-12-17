@@ -1,14 +1,13 @@
 <?php
 /*
-	Plugin Name: VG MFP
-	Plugin URI: https://github.com/matt-chugg/vg-mfp
-	Version: 0.16
-	Author: Matt Chugg
-	Description: Multi-Function Plugin by Matt Chugg
-	Text Domain: vg-mfp
-	GitHub Plugin URI: https://github.com/matt-chugg/vg-mfp
-	
-  */
+Plugin Name: VG MFP
+Plugin URI: https://github.com/matt-chugg/vg-mfp
+Version: 0.17
+Author: Matt Chugg
+Description: Multi-Function Plugin by Matt Chugg
+Text Domain: vg-mfp
+GitHub Plugin URI: https://github.com/matt-chugg/vg-mfp
+*/
 
 
 
