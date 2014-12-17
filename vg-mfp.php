@@ -7,7 +7,7 @@
 	Description: Multi-Function Plugin by Matt Chugg
 	Text Domain: vg-mfp
 	GitHub Plugin URI: https://github.com/matt-chugg/vg-mfp
-	GitHub Branch: master
+	
   */
 
 
