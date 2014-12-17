@@ -6,7 +6,6 @@
    Author: Matt Chugg
    Description: Multi-Function Plugin by Voice Group
    Text Domain: vg-mfp
-   License: GPLv3
   */
 
 
