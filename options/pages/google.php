@@ -1,3 +1,4 @@
+<?php if (!defined('WPINC')) {die;} ?>
 <div class="wrap">
     <h2>Google Options</h2>
 

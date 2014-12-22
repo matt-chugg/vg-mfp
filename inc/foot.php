@@ -1,5 +1,6 @@
 <?php
-
+    if (!defined('WPINC')) {die;} 
+    
     function vgmfp_do_footer() {
         // tag manager
         $vgmfp_gtm_container = get_option("vgmfp_google_container_id","");

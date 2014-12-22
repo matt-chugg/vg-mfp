@@ -1,4 +1,4 @@
-
+<?php if (!defined('WPINC')) {die;} ?>
 <div class="wrap">
     <h2>Head Options</h2>
 
@@ -21,11 +21,7 @@
                 </fieldset></td>
             </tr>
         </table>
-    
         
-
-
-
         <?php submit_button(); ?>
     </form>
 

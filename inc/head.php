@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('WPINC')) {die;} 
 
     function vgmfp_do_header() {
         // google site verification code
