@@ -2,15 +2,14 @@
 /*
 Plugin Name: VG MFP
 Plugin URI: https://github.com/matt-chugg/vg-mfp
-Version: 1.03
+Version: 1.04
 Author: Matt Chugg
 Description: Multi-Function Plugin by Matt Chugg
 Text Domain: vg-mfp
 GitHub Plugin URI: https://github.com/matt-chugg/vg-mfp
 */
 
-error_reporting(E_ALL);
-ini_set('display_errors', '1');
+
 
     // If this file is called directly, abort.
     if (!defined('WPINC')) {die;}
