@@ -58,7 +58,7 @@
     add_action("vgmfp_report", "vgmfp_do_report");
     function vgmfp_do_report() {
         $data = json_encode(generateData());
-        wp_mail("matt.c@voice-group.co.uk", "Test Report", $data);
+        
     }
     
     

@@ -2,7 +2,7 @@
 /*
 Plugin Name: VG MFP
 Plugin URI: https://github.com/matt-chugg/vg-mfp
-Version: 1.04
+Version: 1.05
 Author: Matt Chugg
 Description: Multi-Function Plugin by Matt Chugg
 Text Domain: vg-mfp
