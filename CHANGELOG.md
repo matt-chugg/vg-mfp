@@ -1,3 +1,5 @@
+        Version 1.07
+            Add option to display number of queries and load time in admin bar.
 
         Version 1.06
             Add option to automatically open links to external sites in new window

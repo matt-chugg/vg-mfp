@@ -23,6 +23,10 @@
                     Disable XML-RPC Pingbacks
                     </label><br>
                     
+                    <label for="vgmfp_clever_stuff_queries">
+                    <input name="vgmfp_clever_stuff_queries" type="checkbox" id="vgmfp_clever_stuff_queries" value="1" <?php echo(checked( 1, get_option( 'vgmfp_clever_stuff_queries' ), false )); ?> >
+                    Show number of queries and load time in admin bar
+                    </label><br>
                     
                 </fieldset></td>
             </tr>
