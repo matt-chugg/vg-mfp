@@ -1,4 +1,9 @@
 
+        Version 1.06
+            Add option to automatically open links to external sites in new window
+            Add option to disable XML-RPC pingbacks
+
+
         Version 1.04
 
                 Turn off error reporting.
