@@ -1,4 +1,6 @@
-<?php if (!defined('WPINC')) {die;} ?><!-- Google Tag Manager -->
+<?php if (!defined('WPINC')) {die;} ?>
+
+<!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=<?php echo($vgmfp_gtm_container); ?>"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

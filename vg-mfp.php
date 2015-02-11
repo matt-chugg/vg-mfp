@@ -2,7 +2,7 @@
 /*
 Plugin Name: VG MFP
 Plugin URI: https://github.com/matt-chugg/vg-mfp
-Version: 1.05
+Version: 1.06
 Author: Matt Chugg
 Description: Multi-Function Plugin by Matt Chugg
 Text Domain: vg-mfp
@@ -30,5 +30,5 @@ require_once("inc/head.php");
 
 
 
-// reporter
-require_once("reporter/reporter.php");
+// do filters
+require_once("inc/filters.php");
