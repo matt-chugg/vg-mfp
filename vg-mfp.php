@@ -9,6 +9,8 @@ Text Domain: vg-mfp
 GitHub Plugin URI: https://github.com/matt-chugg/vg-mfp
 */
 
+error_reporting(E_ALL);
+ini_set('display_errors', '1');
 
 
     // If this file is called directly, abort.
@@ -21,6 +23,8 @@ GitHub Plugin URI: https://github.com/matt-chugg/vg-mfp
 // Load Options
 require_once("options/options.php");
 
+// load tools pages
+require_once("tools/tools.php");
 
 
 

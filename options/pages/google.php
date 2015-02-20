@@ -24,7 +24,7 @@
             <tr valign="top">
                 <th scope="row">Container ID</th>
                 <td>
-                    <input type="text"  class="regular-text"  name="vgmfp_google_tag_manager_id" value="<?php echo htmlentities(get_option('vgmfp_google_tag_manager_id')); ?>" />
+                    <input type="text"  class="regular-text"  name="vgmfp_google_container_id" value="<?php echo htmlentities(get_option('vgmfp_google_container_id')); ?>" />
                 </td>
             </tr>
         </table>

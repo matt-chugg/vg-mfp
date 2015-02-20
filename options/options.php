@@ -8,9 +8,9 @@
     // create options
     function create_vgmfp_options() {
         // add pages
-        add_options_page('Google Options', 'Google', 'manage_options', 'vgmfp_google_options', 'create_vgmfp_options_page_google');
-        add_options_page('Head Options', 'Head Tags', 'manage_options', 'vgmfp_head_options', 'create_vgmfp_options_page_head');
-        add_options_page('Clever Stuff', 'Clever Stuff', 'manage_options', 'vgmfp_clever_stuff', 'create_vgmfp_options_page_clever');
+        add_options_page('Google Options', 'Google (ѵ)', 'manage_options', 'vgmfp_google_options', 'create_vgmfp_options_page_google');
+        add_options_page('Head Options', 'Head Tags (ѵ)', 'manage_options', 'vgmfp_head_options', 'create_vgmfp_options_page_head');
+        add_options_page('Clever Stuff', 'Clever Stuff (ѵ)', 'manage_options', 'vgmfp_clever_stuff', 'create_vgmfp_options_page_clever');
 
         // create settings
         add_action( 'admin_init', 'create_vgmfp_options_items' );
