@@ -23,9 +23,6 @@ ini_set('display_errors', '1');
 // Load Options
 require_once("options/options.php");
 
-// load tools pages
-require_once("tools/tools.php");
-
 
 
 // do header and footer functions
@@ -40,3 +37,4 @@ require_once("inc/filters.php");
 
 // do admin bar
 require_once("inc/admin.php");
+
