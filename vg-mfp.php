@@ -9,16 +9,14 @@ Text Domain: vg-mfp
 GitHub Plugin URI: https://github.com/matt-chugg/vg-mfp
 */
 
-error_reporting(E_ALL);
-ini_set('display_errors', '1');
 
 
-    // If this file is called directly, abort.
-    if (!defined('WPINC')) {die;}
+// If this file is called directly, abort.
+if (!defined('WPINC')) {die;}
 
 
-    $vgmfp_file = __FILE__;
-    
+$vgmfp_file = __FILE__;
+
 
 // Load Options
 require_once("options/options.php");
