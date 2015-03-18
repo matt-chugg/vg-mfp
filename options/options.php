@@ -35,6 +35,7 @@
         register_setting( 'vgmfp_clever_stuff', 'vgmfp_clever_stuff_links');
         register_setting( 'vgmfp_clever_stuff', 'vgmfp_clever_stuff_disable_xml-rpc');
         register_setting( 'vgmfp_clever_stuff', 'vgmfp_clever_stuff_queries');
+        register_setting( 'vgmfp_clever_stuff', 'vgmfp_clever_stuff_clacks');
         
     }
     

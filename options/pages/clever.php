@@ -28,6 +28,11 @@
                     Show number of queries and load time in admin bar
                     </label><br>
                     
+                    <label for="vgmfp_clever_stuff_clacks">
+                    <input name="vgmfp_clever_stuff_clacks" type="checkbox" id="vgmfp_clever_stuff_clacks" value="1" <?php echo(checked( 1, get_option( 'vgmfp_clever_stuff_clacks' ), false )); ?> >
+                    Add X-Clacks-Overhead: GNU Terry Pratchett header
+                    </label><br>
+                    
                 </fieldset></td>
             </tr>
         </table>
