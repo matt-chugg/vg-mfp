@@ -1,13 +1,14 @@
 <?php if (!defined('WPINC')) {die;} 
 
-    function vgmfp_do_header() {
+    // head items
+    add_action('wp_head', function() {
         // google site verification code
         $vgmfp_gvc = get_option("vgmfp_google_verification","");
         if($vgmfp_gvc != "") {
             echo("\t<meta name=\"google-site-verification\" content=\"{$vgmfp_gvc}\" />\r\n");
         }
-    }
-    add_action('wp_head', 'vgmfp_do_header', 1000);
+        
+    }, 1000);
     
     
     
